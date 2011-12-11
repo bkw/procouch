@@ -16,7 +16,7 @@ Procouch monitors and maintains a CouchDB server. Just run it and never think ab
 
 ## Is it any good?
 
-Yes.
+Not yet.
 
 ## How to Pro a Couch
 
